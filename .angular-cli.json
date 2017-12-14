@@ -5,6 +5,7 @@
   },
   "apps": [
     {
+      "baseHref": "jct",
       "root": "src",
       "outDir": "dist",
       "assets": [
